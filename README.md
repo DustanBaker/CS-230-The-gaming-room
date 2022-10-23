@@ -1,4 +1,4 @@
-# CS-300-The-gaming-room
+# CS-230-The-gaming-room
 Repository for "The Gaming Room" software design
 
 -Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
